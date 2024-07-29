@@ -46,6 +46,6 @@ MonoBehaviour:
   itemPrefabs:
   - {fileID: 6342829705282433675, guid: d2f33976a27698f4a86e90a3fddefafb, type: 3}
   - {fileID: 3120443188832682995, guid: 5810b5cd9bc185f478400c77d4cd2743, type: 3}
-  - {fileID: 8314992770369300745, guid: 77455af4ca9d59f4c8c880d0d9b0986d, type: 3}
+  - {fileID: 4956057164223885717, guid: b23b5df069205ce40b64173451809dfc, type: 3}
   spawnInterval: 10
   terrain: {fileID: 0}
