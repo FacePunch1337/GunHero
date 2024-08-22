@@ -6,7 +6,7 @@
 ### <p align="center">💥 Bang-bang 💥</p>
 
 <p align="center">
-    <img src="https://github.com/FacePunch1337/GunHero/blob/main/Assets/demo.gif"/>
+    <img src="https://github.com/FacePunch1337/GunHero/blob/main/Assets/mainMenuDemo.gif"/>
 </p>
  
 
